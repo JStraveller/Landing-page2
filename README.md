@@ -3,4 +3,4 @@
 Для слайдера использован Jquery.
 
 ## Demo
-https://jstraveller.github.io/Landing-page2/
+https://aaleo402.github.io/Landing-page2/
